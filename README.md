@@ -29,8 +29,6 @@
 
 Aqui estão alguns dos meus projetos mais interessantes:
 
----
-
 ### ✂️ [Barbearia Millenium](https://github.com/UalaceVGC/BARBER1)
 **O BarberTime é uma plataforma completa para facilitar o agendamento de horários entre clientes e barbeiros.**
 * **Tecnologias:** Django | HTML | JS
