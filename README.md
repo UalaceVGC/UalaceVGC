@@ -53,8 +53,9 @@
 
 ---
 
-## 🐍 Um pouco de diversão  
-[![Snake animation](https://raw.githubusercontent.com/UalaceVGC/UalaceVGC/output/dist/snake.svg)](https://github.com/UalaceVGC/UalaceVGC/blob/main/.github/workflows/snake.yml)
+## 🐍 Um pouco de diversão 
+![snake gif](https://github.com/UalaceVGC/UalaceVGC/blob/output/github-snake-dark.svg)
+
 
 
 ---
