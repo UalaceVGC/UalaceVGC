@@ -32,12 +32,12 @@ Aqui estão alguns dos meus projetos mais interessantes:
 ---
 
 ### ✂️ [Barbearia Millenium](https://github.com/UalaceVGC/BARBER1)
-O BarberTime é uma plataforma completa para facilitar o agendamento de horários entre clientes e barbeiros.
-* **Tecnologias:** [Django], [HTML], [JS]
+**O BarberTime é uma plataforma completa para facilitar o agendamento de horários entre clientes e barbeiros.**
+* **Tecnologias:** Django | HTML | JS
 
 ### 🤖 [PhytoScan Soja](https://rgsa.openaccesspublications.org/rgsa/article/view/11121)
-Modelo de visão computacional baseado no Mask R-CNN para a segmentação e classificação de doenças foliares na soja.
-* **Tecnologias:** [TensorFlow], [PyTorch], [Open CV]
+**Modelo de visão computacional baseado no Mask R-CNN para a segmentação e classificação de doenças foliares na soja.**
+* **Tecnologias:** TensorFlow | PyTorch | Open CV
 
 
 ---
