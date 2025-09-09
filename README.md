@@ -54,7 +54,8 @@
 ---
 
 ## 🐍 Um pouco de diversão  
-![Snake animation](https://github.com/UalaceVGC/UalaceVGC/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/UalaceVGC/UalaceVGC/blob/output/dist/snake.svg)
+
 
 ---
 
