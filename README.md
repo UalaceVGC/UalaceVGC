@@ -1,7 +1,7 @@
 # 🌌 Olá, eu sou o **Ualace Vieira**!  
 
 👨‍💻 Aspirante a **Desenvolvedor Full-stack**  
-🚀 Em busca da **primeira oportunidade** no mercado de tecnologia  
+🚀 Em busca de **oportunidades** no mercado de tecnologia  
 
 ---
 
